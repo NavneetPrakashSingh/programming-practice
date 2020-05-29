@@ -1,4 +1,4 @@
-package Leetcode.PlusOne;
+package Leetcode.Easy.PlusOne;
 
 import java.util.Arrays;
 
